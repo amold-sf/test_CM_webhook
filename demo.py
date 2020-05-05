@@ -9,5 +9,6 @@ def printworld():
 	print("Take3")
 	print("take4")
 	print("take5")
+	print("take6")
 
 printworld()
