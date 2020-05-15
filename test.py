@@ -6,6 +6,7 @@ def printworld():
 	print(os.path.join("this", "that"))
 	print("test")
 	print("test2")
+	print("something")
 	
 
 printworld()
