@@ -12,5 +12,6 @@ def printworld():
 	print("take6")
 	print("take7")
 	print("take8")
+	print("take9")
 
 printworld()
