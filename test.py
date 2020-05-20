@@ -5,5 +5,6 @@ def printworld():
 	print(os.getcwd())
 	print(os.path.join("this", "that"))
 	print(os.path.join("/root/", "thisDirectory"))
+	print("take1")
 
 printworld()
